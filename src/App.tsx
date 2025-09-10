@@ -53,7 +53,7 @@ const teamMembers: TeamMember[] = [
     role: "ML Developer",
     image: "/krishnav.jpeg",
     bio: "Passionate Machine Learning Developer with expertise in AI/ML algorithms, data science, and building intelligent systems that solve real-world problems.",
-    skills: ["ML", "Python", "TensorFlow", "Data Science"],
+    skills: ["Machine Learning", "RAG", "Agent", "Data Science"],
     social: {
       github: "https://github.com/CYBERCONQUEROR",
       linkedin: "https://www.linkedin.com/in/krishnav-talukdar-360059264/"
@@ -71,18 +71,43 @@ const teamMembers: TeamMember[] = [
       linkedin: "https://www.linkedin.com/in/karan-singh-negi-25816b338/"
     }
   },
-  {
-    id: 3,
-    name: "Priya Singh",
-    role: "Backend Developer",
-    image: "priya singh.jpeg",
-    bio: "Experienced Backend Developer focused on building scalable server-side applications and robust API architectures for modern web solutions.",
-    skills: ["Node.js", "Python", "Database Design", "API Development"],
-    social: {
-      github: "https://github.com/Priya-995",
-      linkedin: "https://www.linkedin.com/in/priya-singh-bb4a09303/"
-    }
+{
+  id: 3,
+  name: "Hanshika Gupta",
+  role: "Lead Researcher & PPT Presenter",
+  image: "priya singh.jpeg",
+  bio: "Dedicated researcher with excellent presentation skills and strong coding knowledge. Skilled at creating impactful PPTs, explaining complex topics clearly, and leading research initiatives effectively.",
+  skills: [
+    "Research",
+    "Presentation",
+    "PPT Design",
+    "Explaining Concepts",
+    "Coding Knowledge"
+  ],
+  social: {
+    github: "https://github.com/Priya-995",
+    linkedin: "https://www.linkedin.com/in/priya-singh-bb4a09303/"
   }
+},
+  {
+  id: 4,
+  name: "Vishal Singh",
+  role: "App Developer",
+  image: "843fcdd7-2fd6-4bac-a465-7c81fdbf8002.jpg", // replace with actual image file
+  bio: "App Developer specializing in Java and Firebase Database, experienced in building efficient mobile applications with secure and scalable backend integration.",
+  skills: [
+    "Java",
+    "Firebase Database",
+    "Mobile App Development",
+    "Backend Integration"
+  ],
+  social: {
+    github: "https://github.com/",   // add their GitHub if available
+    linkedin: "https://www.linkedin.com/" // add their LinkedIn if available
+  }
+}
+
+
 ];
 
 const services = [
@@ -458,7 +483,7 @@ function App() {
               </p>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-10 justify-center">
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-6 sm:gap-10 justify-center">
               {teamMembers.map((member, index) => (
                 <div
                   key={member.id}
