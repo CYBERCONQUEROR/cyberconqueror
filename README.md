@@ -44,8 +44,6 @@ I build AI tools that make information easier to access. I’m interested in how
   <a href="https://github.com/CYBERCONQUEROR?tab=repositories"><img src="assets/terminal-noir/languages.svg" width="346" alt="Public repository languages by code share. TypeScript and Python lead the snapshot."></a>
 </p>
 
-<a href="https://github.com/CYBERCONQUEROR#js-contribution-activity-description"><img src="assets/terminal-noir/contribution-overview.svg" width="474" alt="Public GitHub contributions, 21 Nov 2025 – 20 Nov 2026. 187 commits, 2 pull requests, 0 issues, and 0 code reviews."></a>
-
 <a href="https://github.com/CYBERCONQUEROR#js-contribution-activity-description"><img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=CYBERCONQUEROR&amp;custom_title=Contributions%20%C2%B7%20Last%2031%20Days&amp;bg_color=080D0B&amp;border_color=244336&amp;color=9CB6A7&amp;title_color=E5F5EA&amp;line=42E68A&amp;point=42E68A&amp;area_color=1F9D63&amp;area=true&amp;radius=11&amp;height=325" width="100%" alt="Daily GitHub contributions over the last 31 days"></a>
 
 <a href="https://github.com/CYBERCONQUEROR#js-contribution-activity-description"><img src="assets/terminal-noir/snake.svg" width="474" alt="Emerald snake animation across 26 weeks of public GitHub contributions from May to November 2026"></a>
