@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="158" viewBox="0 0 250 158" role="img" aria-labelledby="title" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
+  <title id="title">The Relay</title>
+  <rect x="0.5" y="0.5" width="249" height="157" rx="11" fill="#080D0B" stroke="#244336"/>
+  <rect x="15" y="17" width="15" height="2" rx="1" fill="#1F9D63" />
+  <text x="15" y="48" font-size="23" fill="#E5F5EA" font-weight="720" >The Relay</text>
+  <path d="M222 30h12v12m0-12-14 14" fill="none" stroke="#42E68A" stroke-width="1.5"/>
+  <text x="15" y="73" font-size="12" fill="#9CB6A7" font-weight="400" >Research-paper answers with</text>
+  <text x="15" y="90" font-size="12" fill="#9CB6A7" font-weight="400" >citations and durable retries</text>
+  <path d="M15 107.5H235" stroke="#244336"/>
+  <text x="15" y="127" font-size="10.6" fill="#42E68A" font-weight="400" >Python · FastAPI · FAISS</text>
+  <text x="15" y="143" font-size="10.6" fill="#42E68A" font-weight="400" >BM25 · SQLite · React</text>
+</svg>

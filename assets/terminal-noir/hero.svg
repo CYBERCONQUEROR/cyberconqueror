@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="223" viewBox="0 0 760 223" role="img" aria-labelledby="title" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
+  <title id="title">Krishnav Talukdar | AI/ML Engineer | Full-Stack Developer</title>
+  <rect x="0.5" y="0.5" width="759" height="222" rx="11" fill="#080D0B" stroke="#244336"/>
+  <path d="M.5 37.5H759.5" stroke="#244336"/>
+  <rect x="14" y="15" width="7" height="7" rx="1" fill="#42E68A" />
+  <text x="32" y="24" font-size="13" fill="#9CB6A7" font-weight="400" >cyberconqueror@github:~</text>
+  <path d="M691 22h7 m12 0v-7h7v7z m11-7 7 7m0-7-7 7" fill="none" stroke="#9CB6A7" stroke-width="1"/>
+  <rect x="36" y="63" width="27" height="2" rx="1" fill="#1F9D63" />
+  <text x="36" y="132" font-size="58" fill="#E5F5EA" font-weight="750" letter-spacing="-0.7">KRISHNAV TALUKDAR</text>
+  <text x="36" y="176" font-size="28" fill="#42E68A" font-weight="500" >AI/ML Engineer | Full-Stack Developer</text>
+</svg>
